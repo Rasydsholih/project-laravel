@@ -607,7 +607,6 @@ section.whats-trending .right-image::after {
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
   position: absolute;
-  background: url(../images/whats-trending-right-image.png);
   content: '';
 }
 
@@ -860,7 +859,7 @@ footer .sub-footer a.scroll-to-top:hover {
 
 .page-banner {
   background-color: #333;
-  background-image: url(../images/page-banner-bg.jpg);
+  background-image: url(../images/malem.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -1011,7 +1010,7 @@ section.interior-design .right-content .accordion-body {
 }
 
 .what-they-say .testimonials {
-  background-image: url(../images/testimonial-bg.png);
+  background-image: url(../images/zuki.jpeg);
   background-repeat: no-repeat;
   background-size: 815px 560px;
   background-position: center center;
